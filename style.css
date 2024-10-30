@@ -166,3 +166,9 @@ h2{
     object-fit: cover; /* Cover the container */
     filter: brightness(1); /* Original brightness */
 }
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
